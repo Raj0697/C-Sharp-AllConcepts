@@ -1,0 +1,6 @@
+E:\C#\Quarantine_concepts\Quarantine_concepts\bin\Debug\Quarantine_concepts.exe.config
+E:\C#\Quarantine_concepts\Quarantine_concepts\bin\Debug\Quarantine_concepts.exe
+E:\C#\Quarantine_concepts\Quarantine_concepts\bin\Debug\Quarantine_concepts.pdb
+E:\C#\Quarantine_concepts\Quarantine_concepts\obj\Debug\Quarantine_concepts.csprojResolveAssemblyReference.cache
+E:\C#\Quarantine_concepts\Quarantine_concepts\obj\Debug\Quarantine_concepts.exe
+E:\C#\Quarantine_concepts\Quarantine_concepts\obj\Debug\Quarantine_concepts.pdb
